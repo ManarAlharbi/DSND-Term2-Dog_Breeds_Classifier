@@ -31,12 +31,16 @@ The image below displays potential sample output of your finished project.
 I applied the model on 6 samples, 2 dogs, 2 human, and 2 others. 
 The model was able to determine whether the image contains a human, dog, or neither. 
 - It predicted the correct dog breed for both dogs.
-![Sample Beagle Dog Output](images/sample_dog_2.png)
+
+![Sample Beagle Dog Output](images/sample_dog_2.PNG)
+
 - When I entered Sandra Bullock face, it resembled her with Maltese dog breed.
-![Sample human Output](images/sample_human_1.png)
+
+![Sample human Output](images/sample_human_1.PNG)
 
 - When I entered a flower image, it didn’t recognize it as a dog or a human.
-![Sample others Output](images/sample_other_1.png)
+
+![Sample others Output](images/sample_other_1.PNG)
 
 The technical details of the project can be found on the this blog post  
 [Write an Algorithm for a Dog Identification App](https://medium.com/@manar.alharbi.94/write-an-algorithm-for-a-dog-identification-app-cc453d2c63b1)
