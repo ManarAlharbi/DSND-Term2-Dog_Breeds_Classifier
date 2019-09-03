@@ -11,7 +11,7 @@
 
 ## Project Motivation <a name="motivation"></a>
 
-This project goal is to classify images of dogs according to their breed.
+The project goal is to classify images of dogs according to their breed.
 For this purpose, I built an image classification model with convolutional neural networks.
 The model could be used as part of a mobile or web app. 
 The model accepts any user-supplied image as input. 
